@@ -1,6 +1,8 @@
 # Направление обучения: Data Analyst
 
-## Проекты
+## Проекты Яндекс Практикума
+
+## Приобретенные навыки: SQL, Python (Pandas, NumPy, Seaborn, MatPlotLib, Sklearn, SciPy, BeautifulSoup), Statistics, A/B testing, Visualization (Tableau), Machine Learrning (base)
 
 - [**Музыка больших городов**](https://github.com/artemshurkhalenko/Projects/blob/main/Python%20base/big_cites_music.ipynb)
    
